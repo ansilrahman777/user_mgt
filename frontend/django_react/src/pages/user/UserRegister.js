@@ -66,6 +66,7 @@ function UserRegister() {
                 <input type="text" name='first_name' className="form-control form-control-lg" required />
                 <label className="form-label" >Name</label>
               </div>
+              
               <div className=" mb-4">
                 <input type="email" id="typeEmailX-2" name='email' className="form-control form-control-lg"  required/>
                 <label className="form-label" htmlFor="typeEmailX-2">Email</label>
